@@ -18,6 +18,7 @@ Algorithm for 500 ft by 720 ft:
     totalCost = ((perimeter(25+15) + 150) * 1.06) + 50
     
 Pseudocode:
+
     BEGIN
     
         PROMPT: Input the width of the rectangular yard in foot
